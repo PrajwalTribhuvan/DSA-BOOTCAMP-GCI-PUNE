@@ -1,4 +1,3 @@
-// This will be your code
 #include <iostream>
 using namespace std;
 int main() {
